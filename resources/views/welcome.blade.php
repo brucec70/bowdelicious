@@ -9,7 +9,7 @@
             <div class="container">
                 <div class="row">
                     <div class="carousel-caption">
-                        <h1>Welcome To Bowdelicious</h1>
+                        <h1>Welcome to Bowdelicious</h1>
                         <h3>The first website based in Scotland for quality handcrafted hair bows and accessories from babies to grandmas since 2004.</h3>
 
                         <!-- <p><a class="btn btn-lg btn-primary scroll-to" href="#content" role="button">View our top picks<br class="hidden-md hidden-lg"> for this week</a>
