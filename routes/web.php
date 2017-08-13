@@ -14,6 +14,9 @@
 Route::get('/', function () {
     return view('welcome-temp');
 });
+Route::get('/welcome', function () {
+    return view('welcome');
+});
 Route::get('contact', function () {
     return view('pages.contact');
 });
